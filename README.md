@@ -1,4 +1,7 @@
 ## Project Overview
+
+[![Screenshot-2023-05-04-223223.png](https://i.postimg.cc/rsfH0F7J/Screenshot-2023-05-04-223223.png)](https://postimg.cc/tnVk8yqZ)
+
 The goal in monocular depth estimation is to predict the depth value of each pixel or to infer general depth information, given only one single RGB image as input. In the example picture above, the leftmost column is RGB images, and the middle row is depth information maps of the corresponding images.
 
 As you may have experienced, this task isn’t so difficult for human eyes, but it still remains somewhat challenging for robots’ perception modules. It’s not hard to imagine the value depth estimation can bring: autonomous vehicles can be more aware of their distance to obstacles, factory robots can know better about the things they manipulate, etc. Roboticists in industry and academia care about this question a lot.
